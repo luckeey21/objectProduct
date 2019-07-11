@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: objectProduct
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: parkFamily
+Implementation-Vendor-Id: com.objProd
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/objectProduct
+Created-By: Maven Integration for Eclipse
+
